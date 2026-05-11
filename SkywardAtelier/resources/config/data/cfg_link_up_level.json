@@ -1,0 +1,82 @@
+{
+  "1": {
+    "id": 1,
+    "section": 1,
+    "level": 1,
+    "row_data": "1|1|2|2",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": 999,
+    "reward_1": "1002|100"
+  },
+  "2": {
+    "id": 2,
+    "section": 1,
+    "level": 1,
+    "row_data": "3|3|4|4",
+    "row_count": null,
+    "col_count": null,
+    "time_second": null,
+    "reward_1": null
+  },
+  "3": {
+    "id": 3,
+    "section": 1,
+    "level": 1,
+    "row_data": "5|5|6|6",
+    "row_count": null,
+    "col_count": null,
+    "time_second": null,
+    "reward_1": null
+  },
+  "4": {
+    "id": 4,
+    "section": 1,
+    "level": 1,
+    "row_data": "7|7|8|8",
+    "row_count": null,
+    "col_count": null,
+    "time_second": null,
+    "reward_1": null
+  },
+  "5": {
+    "id": 5,
+    "section": 1,
+    "level": 2,
+    "row_data": "1|2|3|4",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": 999,
+    "reward_1": "1002|100"
+  },
+  "6": {
+    "id": 6,
+    "section": 1,
+    "level": 2,
+    "row_data": "1|2|3|4",
+    "row_count": null,
+    "col_count": null,
+    "time_second": null,
+    "reward_1": null
+  },
+  "7": {
+    "id": 7,
+    "section": 1,
+    "level": 2,
+    "row_data": "5|5|6|6",
+    "row_count": null,
+    "col_count": null,
+    "time_second": null,
+    "reward_1": null
+  },
+  "8": {
+    "id": 8,
+    "section": 1,
+    "level": 2,
+    "row_data": "7|7|8|8",
+    "row_count": null,
+    "col_count": null,
+    "time_second": null,
+    "reward_1": null
+  }
+}

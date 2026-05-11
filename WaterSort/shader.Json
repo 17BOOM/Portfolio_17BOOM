@@ -1,0 +1,503 @@
+{
+    "BLINNPHONG": [
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW",
+                "BONE"
+            ],
+            "passIndex": 1,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW"
+            ],
+            "passIndex": 1,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIFFUSEMAP",
+                "DIRECTIONLIGHT",
+                "UV",
+                "BONE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIRECTIONLIGHT",
+                "NORMALMAP",
+                "UV"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIFFUSEMAP",
+                "DIRECTIONLIGHT",
+                "UV",
+                "UV1"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIFFUSEMAP",
+                "DIRECTIONLIGHT",
+                "UV"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "SHADOW",
+                "BONE"
+            ],
+            "passIndex": 1,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "SHADOW",
+                "DIFFUSEMAP",
+                "DIRECTIONLIGHT",
+                "UV",
+                "BONE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "RECEIVESHADOW",
+                "SHADOW"
+            ],
+            "passIndex": 1,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIFFUSEMAP",
+                "DIRECTIONLIGHT",
+                "UV"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "PBR": [
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW"
+            ],
+            "passIndex": 1,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "UV1",
+                "ALBEDOTEXTURE",
+                "EMISSION",
+                "EMISSIONTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "ALBEDOTEXTURE",
+                "EMISSION",
+                "EMISSIONTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "RECEIVESHADOW",
+                "SHADOW"
+            ],
+            "passIndex": 1,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "RECEIVESHADOW",
+                "SHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "ALBEDOTEXTURE",
+                "EMISSION",
+                "EMISSIONTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "Effect": [
+        {
+            "defineNames": [
+                "ADDTIVEFOG",
+                "MAINTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "Unlit": [
+        {
+            "defineNames": [
+                "ALPHATEST",
+                "ALBEDOTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "ALBEDOTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "ALBEDOTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "BlitScreen": [
+        {
+            "defineNames": [],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "PARTICLESHURIKEN": [
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "VELOCITYOVERLIFETIMERANDOMCONSTANT",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "ROTATIONOVERLIFETIME",
+                "ROTATIONOVERLIFETIMERANDOMCONSTANTS",
+                "TEXTURESHEETANIMATIONCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "ADDTIVEFOG",
+                "STRETCHEDBILLBOARD",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "VELOCITYOVERLIFETIMERANDOMCONSTANT",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "ROTATIONOVERLIFETIME",
+                "ROTATIONOVERLIFETIMERANDOMCONSTANTS",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "ADDTIVEFOG",
+                "SPHERHBILLBOARD",
+                "VELOCITYOVERLIFETIMERANDOMCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "STRETCHEDBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "ROTATIONOVERLIFETIME",
+                "ROTATIONOVERLIFETIMERANDOMCONSTANTS",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "RENDERMODE_MESH",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "RENDERMODE_MESH",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "ADDTIVEFOG",
+                "STRETCHEDBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "TEXTURESHEETANIMATIONCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "ROTATIONOVERLIFETIME",
+                "ROTATIONOVERLIFETIMERANDOMCONSTANTS",
+                "TEXTURESHEETANIMATIONCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "RENDERMODE_MESH",
+                "TEXTURESHEETANIMATIONRANDOMCURVE",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "SIZEOVERLIFETIMECURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "STRETCHEDBILLBOARD",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMERANDOMCURVES",
+                "ROTATIONOVERLIFETIME",
+                "ROTATIONOVERLIFETIMERANDOMCONSTANTS",
+                "TEXTURESHEETANIMATIONCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "STRETCHEDBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "TEXTURESHEETANIMATIONCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMERANDOMCURVES",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "VELOCITYOVERLIFETIMERANDOMCONSTANT",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "TEXTURESHEETANIMATIONCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ]
+}

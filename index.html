@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>我的游戏作品集 - 本地演示</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: #f5f7fb;
+        }
+
+        h1 {
+            text-align: center;
+            color: #1e293b;
+        }
+
+        .sub {
+            text-align: center;
+            color: #475569;
+            margin-bottom: 2rem;
+        }
+
+        .filter-section {
+            background: white;
+            border-radius: 1rem;
+            padding: 1rem 1rem 0.5rem 1rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+        }
+
+        .filter-group {
+            margin-bottom: 1rem;
+        }
+
+        .filter-group-title {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #475569;
+            margin-bottom: 0.5rem;
+        }
+
+        .filter-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+
+        .filter-btn {
+            background: #f1f5f9;
+            border: none;
+            padding: 0.4rem 1.2rem;
+            border-radius: 40px;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: 0.2s;
+            color: #1e293b;
+        }
+
+        .filter-btn.active {
+            background: #3b82f6;
+            color: white;
+        }
+
+        .filter-btn:hover {
+            background: #e2e8f0;
+        }
+
+        .filter-btn.active:hover {
+            background: #2563eb;
+        }
+
+        .game-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+
+        /* 卡片无固定高度，背景自动贴合内容 */
+        .game-card {
+            background: white;
+            border-radius: 1rem;
+            padding: 1rem;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            text-decoration: none;
+            color: #0f172a;
+            border: 1px solid #e2e8f0;
+            display: flex;
+            flex-direction: column;
+            /* 移除 height 固定值，让高度由内容撑开 */
+        }
+
+        .game-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
+            border-color: #94a3b8;
+        }
+
+        .game-thumb {
+            width: 100%;
+            height: 200px;
+            background: #eef2ff;
+            border-radius: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            margin-bottom: 0.75rem;
+            flex-shrink: 0;
+        }
+
+        .game-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            display: block;
+        }
+
+        .game-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-bottom: 0.35rem;
+        }
+
+        .game-desc {
+            font-size: 0.85rem;
+            color: #475569;
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.25rem;
+        }
+
+        .tech-tag {
+            background: #e2e8f0;
+            font-size: 0.7rem;
+            padding: 0.2rem 0.6rem;
+            border-radius: 20px;
+            color: #1e293b;
+        }
+
+        .orientation-landscape {
+            background: #dbeafe;
+            color: #1e40af;
+        }
+
+        .orientation-portrait {
+            background: #fce7f3;
+            color: #9d174d;
+        }
+
+        .engine-tag-unity {
+            background: #e0f2fe;
+            color: #0369a1;
+        }
+
+        .engine-tag-cocos {
+            background: #dcfce7;
+            color: #15803d;
+        }
+
+        .engine-tag-laya {
+            background: #fef08a;
+            color: #854d0e;
+        }
+
+        /* 移动端调整预览区高度 */
+        @media (max-width: 640px) {
+            .game-thumb {
+                height: 160px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>🎮 我的游戏开发作品</h1>
+    <div class="sub">Unity · Cocos · Laya —— 点击卡片在线试玩（本地预览）</div>
+
+    <div class="filter-section">
+        <div class="filter-group">
+            <div class="filter-group-title">📱 游戏方向</div>
+            <div class="filter-bar" id="orientationFilter">
+                <button class="filter-btn active" data-orient="all">全部</button>
+                <button class="filter-btn" data-orient="landscape">🖥️ 横屏</button>
+                <button class="filter-btn" data-orient="portrait">📱 竖屏</button>
+            </div>
+        </div>
+        <div class="filter-group">
+            <div class="filter-group-title">🎮 开发引擎</div>
+            <div class="filter-bar" id="engineFilter">
+                <button class="filter-btn active" data-engine="all">全部</button>
+                <button class="filter-btn" data-engine="unity">Unity</button>
+                <button class="filter-btn" data-engine="cocos">Cocos</button>
+                <button class="filter-btn" data-engine="laya">Laya</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="game-grid" id="gameGrid">
+        <a href="games/game1_webgl/index.html" class="game-card" data-orientation="landscape" data-engine="unity">
+            <div class="game-thumb">
+                <img src="images/parkour.jpg" alt="跑酷小英雄截图">
+            </div>
+            <div class="game-title">跑酷小英雄</div>
+            <div class="game-desc">Unity WebGL 横版跑酷，点击跳跃躲避障碍物</div>
+            <div class="tags">
+                <span class="tech-tag orientation-landscape">🖥️ 横屏</span>
+                <span class="tech-tag engine-tag-unity">Unity</span>
+            </div>
+        </a>
+
+        <a href="LongNoseDog/index.html" class="game-card" data-orientation="portrait" data-engine="cocos">
+            <div class="game-thumb">
+                <img src="images/LongNoseDog.png" alt="长鼻狗截图">
+            </div>
+            <div class="game-title">长鼻狗</div>
+            <div class="game-desc">Cocos </div>
+            <div class="tags">
+                <span class="tech-tag orientation-portrait">📱 竖屏</span>
+                <span class="tech-tag engine-tag-cocos">Cocos</span>
+            </div>
+        </a>
+
+        <a href="SkywardAtelier/index.html" class="game-card" data-orientation="portrait" data-engine="laya">
+            <div class="game-thumb">
+                <img src="images/SkywardAtelier.png" alt="浮空工坊截图">
+            </div>
+            <div class="game-title">浮空工坊</div>
+            <div class="game-desc">Laya</div>
+            <div class="tags">
+                <span class="tech-tag orientation-portrait">📱 竖屏</span>
+                <span class="tech-tag engine-tag-laya">Laya</span>
+            </div>
+        </a>
+
+        <a href="WaterSort/index.html" class="game-card" data-orientation="portrait" data-engine="laya">
+            <div class="game-thumb">
+                <img src="images/WaterSort.png" alt="倒水截图">
+            </div>
+            <div class="game-title">倒水解密</div>
+            <div class="game-desc">Laya</div>
+            <div class="tags">
+                <span class="tech-tag orientation-portrait">📱 竖屏</span>
+                <span class="tech-tag engine-tag-laya">Laya</span>
+            </div>
+        </a>
+
+        <a href="games/game4_cocos_landscape/index.html" class="game-card" data-orientation="landscape"
+            data-engine="cocos">
+            <div class="game-thumb">
+                <img src="images/racing.jpg" alt="赛车小英雄截图">
+            </div>
+            <div class="game-title">赛车小英雄</div>
+            <div class="game-desc">Cocos 横屏竞速游戏，躲避障碍物收集金币</div>
+            <div class="tags">
+                <span class="tech-tag orientation-landscape">🖥️ 横屏</span>
+                <span class="tech-tag engine-tag-cocos">Cocos</span>
+            </div>
+        </a>
+    </div>
+
+    <div style="text-align: center; margin-top: 3rem; padding: 1rem; border-top: 1px solid #cbd5e1; color: #64748b;">
+        💬 合作/定制游戏开发 → 小红书：4121047026 | 邮箱：1714721553@qq.com
+    </div>
+
+    <script>
+        const cards = document.querySelectorAll('.game-card');
+        let currentOrientation = 'all';
+        let currentEngine = 'all';
+
+        function filterGames() {
+            cards.forEach(card => {
+                const cardOrientation = card.getAttribute('data-orientation');
+                const cardEngine = card.getAttribute('data-engine');
+                const orientationMatch = (currentOrientation === 'all') || (cardOrientation === currentOrientation);
+                const engineMatch = (currentEngine === 'all') || (cardEngine === currentEngine);
+                if (orientationMatch && engineMatch) {
+                    card.style.display = 'flex';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        const orientationBtns = document.querySelectorAll('#orientationFilter .filter-btn');
+        orientationBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                orientationBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentOrientation = btn.getAttribute('data-orient');
+                filterGames();
+            });
+        });
+
+        const engineBtns = document.querySelectorAll('#engineFilter .filter-btn');
+        engineBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                engineBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                currentEngine = btn.getAttribute('data-engine');
+                filterGames();
+            });
+        });
+
+        filterGames();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+{
+  "1": {
+    "id": 1,
+    "key": "time_limit",
+    "value": "999",
+    "comment": "每日挑战上限"
+  },
+  "2": {
+    "id": 2,
+    "key": "grid_size_w",
+    "value": "74",
+    "comment": "格子宽度"
+  },
+  "3": {
+    "id": 3,
+    "key": "grid_size_h",
+    "value": "84",
+    "comment": "格子高度"
+  },
+  "4": {
+    "id": 4,
+    "key": "grid_size_s",
+    "value": "10",
+    "comment": "格子间距"
+  },
+  "5": {
+    "id": 5,
+    "key": "max_color",
+    "value": "8",
+    "comment": "最大颜色数"
+  }
+}

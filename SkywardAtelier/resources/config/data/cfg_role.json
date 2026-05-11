@@ -1,0 +1,14 @@
+{
+  "100001": {
+    "id": 100001,
+    "name": "沉香",
+    "model": "chenxiang",
+    "color": 2
+  },
+  "100002": {
+    "id": 100002,
+    "name": "敖广",
+    "model": "aoguang",
+    "color": 3
+  }
+}

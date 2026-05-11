@@ -1,0 +1,20 @@
+{
+  "1": {
+    "id": 1,
+    "key": "grid_size_w",
+    "value": "100",
+    "comment": "格子宽度"
+  },
+  "2": {
+    "id": 2,
+    "key": "grid_size_h",
+    "value": "100",
+    "comment": "格子高度"
+  },
+  "3": {
+    "id": 3,
+    "key": "grid_size_s",
+    "value": "5",
+    "comment": "格子间距"
+  }
+}

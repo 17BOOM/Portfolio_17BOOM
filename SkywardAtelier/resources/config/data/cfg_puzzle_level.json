@@ -1,0 +1,3462 @@
+{
+  "1": {
+    "id": 1,
+    "section": 1,
+    "level": 1,
+    "row_data": "生_4|有_4|英_3|月_3",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "2": {
+    "id": 2,
+    "section": 1,
+    "level": 1,
+    "row_data": "中_4|薪_5|抽_5|黄_3",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "3": {
+    "id": 3,
+    "section": 1,
+    "level": 1,
+    "row_data": "无_4|渊_2|底_5|釜_5",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "4": {
+    "id": 4,
+    "section": 1,
+    "level": 1,
+    "row_data": "夏_2|侯_2|嘉_1|郭_1",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "5": {
+    "id": 5,
+    "section": 1,
+    "level": 2,
+    "row_data": "战_4|舌_4|懿_1|维_2|姜_2",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "6": {
+    "id": 6,
+    "section": 1,
+    "level": 2,
+    "row_data": "群_4|司_1|马_1|暗_8|貂_5",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "7": {
+    "id": 7,
+    "section": 1,
+    "level": 2,
+    "row_data": "儒_4|人_3|美_3|度_8|蝉_5",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "8": {
+    "id": 8,
+    "section": 1,
+    "level": 2,
+    "row_data": "诗_7|计_3|仓_8|陈_8|育_6",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "9": {
+    "id": 9,
+    "section": 1,
+    "level": 2,
+    "row_data": "成_7|步_7|七_7|孙_6|鲁_6",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "10": {
+    "id": 10,
+    "section": 1,
+    "level": 3,
+    "row_data": "初_1|出_1|刘_3|玄_3|龙_5|子_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "11": {
+    "id": 11,
+    "section": 1,
+    "level": 3,
+    "row_data": "绍_6|茅_1|庐_1|德_3|亮_4|赵_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "12": {
+    "id": 12,
+    "section": 1,
+    "level": 3,
+    "row_data": "袁_6|德_2|孟_2|伤_10|葛_4|诸_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "13": {
+    "id": 13,
+    "section": 1,
+    "level": 3,
+    "row_data": "会_7|赴_7|曹_2|疗_10|骨_10|刮_10",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "14": {
+    "id": 14,
+    "section": 1,
+    "level": 3,
+    "row_data": "火_11|刀_7|单_7|连_8|关_9|云_9",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "15": {
+    "id": 15,
+    "section": 1,
+    "level": 3,
+    "row_data": "烧_11|赤_11|壁_11|环_8|计_8|长_9",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "16": {
+    "id": 16,
+    "section": 1,
+    "level": 4,
+    "row_data": "辽_11|张_11|侯_13|惇_13|孙_6|尚_6|渴_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "17": {
+    "id": 17,
+    "section": 1,
+    "level": 4,
+    "row_data": "过_8|海_8|夏_13|汉_1|在_1|香_6|止_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "18": {
+    "id": 18,
+    "section": 1,
+    "level": 4,
+    "row_data": "天_8|雄_2|德_5|翼_5|心_1|望_10|梅_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "19": {
+    "id": 19,
+    "section": 1,
+    "level": 4,
+    "row_data": "瞒_8|华_2|斩_2|张_5|营_1|曹_1|在_1",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "20": {
+    "id": 20,
+    "section": 1,
+    "level": 4,
+    "row_data": "山_12|温_2|酒_2|孤_3|托_3|庐_9|身_1",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "21": {
+    "id": 21,
+    "section": 1,
+    "level": 4,
+    "row_data": "祁_12|马_7|超_7|隆_4|城_3|茅_9|顾_9",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "22": {
+    "id": 22,
+    "section": 1,
+    "level": 4,
+    "row_data": "出_12|六_12|对_4|中_4|帝_3|白_3|三_9",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "23": {
+    "id": 23,
+    "section": 1,
+    "level": 5,
+    "row_data": "桃_1|黄_4|天_4|坚_14|过_13|五_13|关_13|斩_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "24": {
+    "id": 24,
+    "section": 1,
+    "level": 5,
+    "row_data": "园_1|义_1|当_4|孙_14|酒_8|煮_8|美_15|六_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "25": {
+    "id": 25,
+    "section": 1,
+    "level": 5,
+    "row_data": "三_1|结_1|立_4|王_2|论_8|郎_15|周_15|将_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "26": {
+    "id": 26,
+    "section": 1,
+    "level": 5,
+    "row_data": "万_9|东_2|小_2|霸_2|英_8|雄_8|借_12|船_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "27": {
+    "id": 27,
+    "section": 1,
+    "level": 5,
+    "row_data": "箭_9|江_2|乐_10|七_7|擒_7|孟_7|箭_12|草_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "28": {
+    "id": 28,
+    "section": 1,
+    "level": 5,
+    "row_data": "齐_9|发_9|不_10|空_11|城_11|获_7|乔_5|单_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "29": {
+    "id": 29,
+    "section": 1,
+    "level": 5,
+    "row_data": "借_6|船_6|思_10|蜀_10|计_11|布_16|大_5|骑_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "30": {
+    "id": 30,
+    "section": 1,
+    "level": 5,
+    "row_data": "箭_6|草_6|三_16|英_16|战_16|吕_16|主_3|救_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "31": {
+    "id": 31,
+    "section": 1,
+    "level": 6,
+    "row_data": "剑_5|曹_3|魏_3|草_1",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "32": {
+    "id": 32,
+    "section": 1,
+    "level": 6,
+    "row_data": "指_5|箭_1|借_1|船_1",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "33": {
+    "id": 33,
+    "section": 1,
+    "level": 6,
+    "row_data": "中_5|原_5|羽_2|扇_2",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "34": {
+    "id": 34,
+    "section": 1,
+    "level": 6,
+    "row_data": "东_4|吴_4|巾_2|纶_2",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "35": {
+    "id": 35,
+    "section": 1,
+    "level": 7,
+    "row_data": "煮_6|豆_6|曹_1|诗_2|泣_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "36": {
+    "id": 36,
+    "section": 1,
+    "level": 7,
+    "row_data": "豆_6|燃_6|植_1|步_2|中_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "37": {
+    "id": 37,
+    "section": 1,
+    "level": 7,
+    "row_data": "萁_6|何_5|太_5|七_2|釜_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "38": {
+    "id": 38,
+    "section": 1,
+    "level": 7,
+    "row_data": "相_5|煎_5|急_5|生_4|在_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "39": {
+    "id": 39,
+    "section": 1,
+    "level": 7,
+    "row_data": "本_4|是_4|同_4|根_4|豆_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "40": {
+    "id": 40,
+    "section": 1,
+    "level": 8,
+    "row_data": "夏_1|太_2|史_2|刘_7|备_7|司_3",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "41": {
+    "id": 41,
+    "section": 1,
+    "level": 8,
+    "row_data": "侯_1|惇_1|慈_2|典_8|昭_3|马_3",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "42": {
+    "id": 42,
+    "section": 1,
+    "level": 8,
+    "row_data": "陈_10|宫_10|诸_4|韦_8|陆_9|逊_9",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "43": {
+    "id": 43,
+    "section": 1,
+    "level": 8,
+    "row_data": "吕_11|董_13|葛_4|张_14|角_14|干_15",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "44": {
+    "id": 44,
+    "section": 1,
+    "level": 8,
+    "row_data": "布_11|卓_13|亮_4|尚_6|孙_6|蒋_15",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "45": {
+    "id": 45,
+    "section": 1,
+    "level": 8,
+    "row_data": "司_5|马_5|懿_5|香_6|邓_12|艾_12",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "46": {
+    "id": 46,
+    "section": 1,
+    "level": 9,
+    "row_data": "草_1|船_1|华_3|容_3|道_3|割_4|赔_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "47": {
+    "id": 47,
+    "section": 1,
+    "level": 9,
+    "row_data": "挟_2|借_1|箭_1|袍_4|弃_4|须_4|了_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "48": {
+    "id": 48,
+    "section": 1,
+    "level": 9,
+    "row_data": "天_2|子_2|松_7|张_7|又_6|人_6|夫_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "49": {
+    "id": 49,
+    "section": 1,
+    "level": 9,
+    "row_data": "侯_2|以_2|献_7|兵_6|折_6|谡_8|马_8",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "50": {
+    "id": 50,
+    "section": 1,
+    "level": 9,
+    "row_data": "诸_2|令_2|图_7|环_9|连_9|失_8|八_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "51": {
+    "id": 51,
+    "section": 1,
+    "level": 9,
+    "row_data": "颜_5|良_5|丑_5|计_9|亭_8|街_8|阵_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "52": {
+    "id": 52,
+    "section": 1,
+    "level": 9,
+    "row_data": "斩_5|诛_5|文_5|计_11|城_11|空_11|图_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "53": {
+    "id": 53,
+    "section": 1,
+    "level": 10,
+    "row_data": "铜_2|桃_3|园_3|三_3|结_3|义_3|烦_5|频_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "54": {
+    "id": 54,
+    "section": 1,
+    "level": 10,
+    "row_data": "雀_2|桃_1|二_1|三_4|顾_4|下_5|天_5|顾_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "55": {
+    "id": 55,
+    "section": 1,
+    "level": 10,
+    "row_data": "春_2|杀_1|三_1|曹_7|茅_4|计_5|城_6|三_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "56": {
+    "id": 56,
+    "section": 1,
+    "level": 10,
+    "row_data": "深_2|锁_2|士_1|丕_7|庐_4|相_8|麦_6|走_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "57": {
+    "id": 57,
+    "section": 1,
+    "level": 10,
+    "row_data": "乔_2|二_2|急_8|太_8|何_8|煎_8|凌_9|败_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "58": {
+    "id": 58,
+    "section": 1,
+    "level": 10,
+    "row_data": "荆_11|失_11|意_11|大_11|天_10|安_10|波_9|微_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "59": {
+    "id": 59,
+    "section": 1,
+    "level": 10,
+    "row_data": "州_11|煮_12|酒_12|横_13|下_10|计_10|妙_10|步_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "60": {
+    "id": 60,
+    "section": 1,
+    "level": 10,
+    "row_data": "雄_12|英_12|论_12|槊_13|赋_13|诗_13|郎_10|周_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "61": {
+    "id": 61,
+    "section": 1,
+    "level": 11,
+    "row_data": "德_1|翼_1|张_1|敬_2",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "62": {
+    "id": 62,
+    "section": 1,
+    "level": 11,
+    "row_data": "布_4|诸_5|葛_5|子_2",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "63": {
+    "id": 63,
+    "section": 1,
+    "level": 11,
+    "row_data": "子_4|明_5|孔_5|鲁_2",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "64": {
+    "id": 64,
+    "section": 1,
+    "level": 11,
+    "row_data": "张_4|霸_3|兴_3|甘_3",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "65": {
+    "id": 65,
+    "section": 1,
+    "level": 12,
+    "row_data": "江_1|过_6|五_6|关_6|斩_6",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "66": {
+    "id": 66,
+    "section": 1,
+    "level": 12,
+    "row_data": "东_1|二_1|乔_1|将_6|六_6",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "67": {
+    "id": 67,
+    "section": 1,
+    "level": 12,
+    "row_data": "大_2|意_2|失_2|铜_3|雀_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "68": {
+    "id": 68,
+    "section": 1,
+    "level": 12,
+    "row_data": "官_4|渡_4|荆_2|衣_5|台_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "69": {
+    "id": 69,
+    "section": 1,
+    "level": 12,
+    "row_data": "战_4|之_4|州_2|带_5|诏_5",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "70": {
+    "id": 70,
+    "section": 1,
+    "level": 13,
+    "row_data": "孟_1|德_1|献_1|借_4|荆_4|三_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "71": {
+    "id": 71,
+    "section": 1,
+    "level": 13,
+    "row_data": "七_7|定_2|刀_1|威_3|州_4|顾_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "72": {
+    "id": 72,
+    "section": 1,
+    "level": 13,
+    "row_data": "擒_7|军_2|侯_2|震_3|逍_3|茅_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "73": {
+    "id": 73,
+    "section": 1,
+    "level": 13,
+    "row_data": "孟_7|斩_2|夏_2|挂_9|遥_3|庐_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "74": {
+    "id": 74,
+    "section": 1,
+    "level": 13,
+    "row_data": "获_7|祁_8|山_8|印_9|津_3|隆_6",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "75": {
+    "id": 75,
+    "section": 1,
+    "level": 13,
+    "row_data": "六_8|出_8|金_9|封_9|对_6|中_6",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "76": {
+    "id": 76,
+    "section": 1,
+    "level": 14,
+    "row_data": "乱_1|世_1|毒_3|威_5|神_5|白_6|面_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "77": {
+    "id": 77,
+    "section": 1,
+    "level": 14,
+    "row_data": "古_2|奸_1|士_3|将_5|军_5|水_7|书_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "78": {
+    "id": 78,
+    "section": 1,
+    "level": 14,
+    "row_data": "之_2|雄_1|凤_4|雏_4|先_7|境_7|生_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "79": {
+    "id": 79,
+    "section": 1,
+    "level": 14,
+    "row_data": "召_2|虎_2|古_8|之_8|生_7|周_9|美_9",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "80": {
+    "id": 80,
+    "section": 1,
+    "level": 14,
+    "row_data": "美_14|髯_14|公_14|恶_8|来_8|郎_9|常_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "81": {
+    "id": 81,
+    "section": 1,
+    "level": 14,
+    "row_data": "山_13|贼_13|枯_12|骨_12|猛_11|虎_11|胜_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "82": {
+    "id": 82,
+    "section": 1,
+    "level": 14,
+    "row_data": "黑_13|冢_12|中_12|江_11|东_11|军_10|将_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "83": {
+    "id": 83,
+    "section": 1,
+    "level": 15,
+    "row_data": "毒_1|士_1|荀_3|彧_3|生_10|仲_10|谋_10|庞_11",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "84": {
+    "id": 84,
+    "section": 1,
+    "level": 15,
+    "row_data": "祝_2|贾_1|借_4|东_5|子_10|孙_10|公_11|德_11",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "85": {
+    "id": 85,
+    "section": 1,
+    "level": 15,
+    "row_data": "融_2|诩_1|荆_4|风_5|当_10|如_10|周_12|公_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "86": {
+    "id": 86,
+    "section": 1,
+    "level": 15,
+    "row_data": "夫_2|人_2|州_4|不_5|与_5|周_5|郎_5|瑾_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "87": {
+    "id": 87,
+    "section": 1,
+    "level": 15,
+    "row_data": "名_14|成_14|夏_9|诗_7|七_7|苦_6|便_5|甘_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "88": {
+    "id": 88,
+    "section": 1,
+    "level": 15,
+    "row_data": "诸_16|八_14|侯_9|成_7|步_7|肉_6|关_8|宁_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "89": {
+    "id": 89,
+    "section": 1,
+    "level": 15,
+    "row_data": "葛_16|阵_14|妙_9|才_9|司_15|计_6|云_8|长_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "90": {
+    "id": 90,
+    "section": 1,
+    "level": 15,
+    "row_data": "瑾_16|图_14|文_17|聘_17|马_15|昭_15|之_15|心_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "91": {
+    "id": 91,
+    "section": 1,
+    "level": 16,
+    "row_data": "权_1|孙_1|糜_3|夫_3",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "92": {
+    "id": 92,
+    "section": 1,
+    "level": 16,
+    "row_data": "香_2|尚_2|夫_4|人_3",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "93": {
+    "id": 93,
+    "section": 1,
+    "level": 16,
+    "row_data": "获_6|孙_2|村_4|葛_4",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "94": {
+    "id": 94,
+    "section": 1,
+    "level": 16,
+    "row_data": "孟_6|曹_5|操_5|诸_4",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "95": {
+    "id": 95,
+    "section": 1,
+    "level": 17,
+    "row_data": "曹_2|渊_9|侯_9|夏_9|洪_8",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "96": {
+    "id": 96,
+    "section": 1,
+    "level": 17,
+    "row_data": "真_2|八_3|曹_6|曹_7|曹_8",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "97": {
+    "id": 97,
+    "section": 1,
+    "level": 17,
+    "row_data": "惇_1|虎_3|纯_6|仁_7|骑_10",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "98": {
+    "id": 98,
+    "section": 1,
+    "level": 17,
+    "row_data": "侯_1|骑_3|尚_4|休_5|虎_10",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "99": {
+    "id": 99,
+    "section": 1,
+    "level": 17,
+    "row_data": "夏_1|夏_4|侯_4|曹_5|八_10",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "100": {
+    "id": 100,
+    "section": 1,
+    "level": 18,
+    "row_data": "谋_1|刘_2|玄_2|德_2|阿_3|瞒_3",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "101": {
+    "id": 101,
+    "section": 1,
+    "level": 18,
+    "row_data": "仲_1|孙_1|蜀_9|孟_14|曹_3|枭_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "102": {
+    "id": 102,
+    "section": 1,
+    "level": 18,
+    "row_data": "司_10|达_10|思_9|获_14|华_8|雄_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "103": {
+    "id": 103,
+    "section": 1,
+    "level": 18,
+    "row_data": "马_10|仲_10|不_9|乐_9|佗_8|赵_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "104": {
+    "id": 104,
+    "section": 1,
+    "level": 18,
+    "row_data": "超_11|马_11|稷_13|羽_7|关_7|云_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "105": {
+    "id": 105,
+    "section": 1,
+    "level": 18,
+    "row_data": "庞_12|统_12|马_13|坡_6|坂_6|长_6",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "106": {
+    "id": 106,
+    "section": 1,
+    "level": 19,
+    "row_data": "三_1|气_1|火_2|烧_2|上_2|方_2|谷_2",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "107": {
+    "id": 107,
+    "section": 1,
+    "level": 19,
+    "row_data": "瑜_1|周_1|道_3|容_3|华_3|战_4|奴_5",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "108": {
+    "id": 108,
+    "section": 1,
+    "level": 19,
+    "row_data": "病_9|逝_9|五_9|空_8|壁_4|之_4|家_5",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "109": {
+    "id": 109,
+    "section": 1,
+    "level": 19,
+    "row_data": "铜_10|原_9|丈_9|城_8|赤_4|大_6|姓_5",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "110": {
+    "id": 110,
+    "section": 1,
+    "level": 19,
+    "row_data": "雀_10|春_10|深_10|计_8|过_7|意_6|三_5",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "111": {
+    "id": 111,
+    "section": 1,
+    "level": 19,
+    "row_data": "乔_10|二_10|锁_10|关_7|五_7|失_6|街_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "112": {
+    "id": 112,
+    "section": 1,
+    "level": 19,
+    "row_data": "计_11|人_11|美_11|斩_7|六_7|将_7|亭_6",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "113": {
+    "id": 113,
+    "section": 1,
+    "level": 20,
+    "row_data": "陆_1|逊_1|营_1|伤_2|疗_2|关_2|司_3|马_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "114": {
+    "id": 114,
+    "section": 1,
+    "level": 20,
+    "row_data": "帝_11|曹_7|烧_1|陆_12|骨_2|云_2|达_3|仲_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "115": {
+    "id": 115,
+    "section": 1,
+    "level": 20,
+    "row_data": "献_11|阿_7|七_1|抗_12|刮_2|长_2|诸_4|葛_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "116": {
+    "id": 116,
+    "section": 1,
+    "level": 20,
+    "row_data": "汉_11|瞒_7|百_1|里_1|庐_6|茅_6|顾_6|亮_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "117": {
+    "id": 117,
+    "section": 1,
+    "level": 20,
+    "row_data": "山_10|割_7|须_7|刘_6|玄_6|德_6|三_6|舌_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "118": {
+    "id": 118,
+    "section": 1,
+    "level": 20,
+    "row_data": "头_10|牛_10|弃_7|袍_7|曹_8|丕_9|曹_9|战_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "119": {
+    "id": 119,
+    "section": 1,
+    "level": 20,
+    "row_data": "兵_10|败_10|酒_8|煮_8|操_8|诸_5|儒_4|群_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "120": {
+    "id": 120,
+    "section": 1,
+    "level": 20,
+    "row_data": "维_10|姜_10|论_8|英_8|雄_8|葛_5|孔_5|明_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "121": {
+    "id": 121,
+    "section": 1,
+    "level": 21,
+    "row_data": "三_1|赤_2|兔_2|马_2",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "122": {
+    "id": 122,
+    "section": 1,
+    "level": 21,
+    "row_data": "日_1|当_1|刮_1|看_1",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "123": {
+    "id": 123,
+    "section": 1,
+    "level": 21,
+    "row_data": "不_1|见_1|目_1|相_1",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "124": {
+    "id": 124,
+    "section": 1,
+    "level": 21,
+    "row_data": "司_3|马_3|仲_3|达_3",
+    "row_count": 4,
+    "col_count": 4,
+    "time_second": null,
+    "reward_1": null
+  },
+  "125": {
+    "id": 125,
+    "section": 1,
+    "level": 22,
+    "row_data": "从_1|既_3|生_3|瑜_3|刘_4",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "126": {
+    "id": 126,
+    "section": 1,
+    "level": 22,
+    "row_data": "未_1|见_1|过_1|何_3|备_4",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "127": {
+    "id": 127,
+    "section": 1,
+    "level": 22,
+    "row_data": "燕_2|人_2|如_1|生_3|亮_3",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "128": {
+    "id": 128,
+    "section": 1,
+    "level": 22,
+    "row_data": "翼_2|张_2|此_1|厚_1|颜_1",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "129": {
+    "id": 129,
+    "section": 1,
+    "level": 22,
+    "row_data": "德_2|人_1|之_1|耻_1|无_1",
+    "row_count": 5,
+    "col_count": 5,
+    "time_second": null,
+    "reward_1": null
+  },
+  "130": {
+    "id": 130,
+    "section": 1,
+    "level": 23,
+    "row_data": "七_1|五_2|三_4|国_4|鼎_4|立_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "131": {
+    "id": 131,
+    "section": 1,
+    "level": 23,
+    "row_data": "擒_1|虎_2|上_2|孙_5|三_6|小_10",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "132": {
+    "id": 132,
+    "section": 1,
+    "level": 23,
+    "row_data": "七_1|黄_3|将_2|权_5|英_6|霸_10",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "133": {
+    "id": 133,
+    "section": 1,
+    "level": 23,
+    "row_data": "纵_1|忠_3|布_6|吕_6|战_6|王_10",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "134": {
+    "id": 134,
+    "section": 1,
+    "level": 23,
+    "row_data": "常_7|山_7|赵_7|子_7|姜_9|孙_10",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "135": {
+    "id": 135,
+    "section": 1,
+    "level": 23,
+    "row_data": "蔡_8|文_8|姬_8|龙_7|维_9|策_10",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "136": {
+    "id": 136,
+    "section": 1,
+    "level": 24,
+    "row_data": "孝_16|奉_16|绍_15|袁_15|马_13|司_13|龙_12",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "137": {
+    "id": 137,
+    "section": 1,
+    "level": 24,
+    "row_data": "庶_14|郭_16|马_8|超_8|师_13|赵_12|子_12",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "138": {
+    "id": 138,
+    "section": 1,
+    "level": 24,
+    "row_data": "徐_14|飞_6|德_1|赤_9|兔_9|汉_5|升_5",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "139": {
+    "id": 139,
+    "section": 1,
+    "level": 24,
+    "row_data": "先_7|张_6|孟_1|平_4|关_4|黄_5|水_17",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "140": {
+    "id": 140,
+    "section": 1,
+    "level": 24,
+    "row_data": "奉_7|吕_7|曹_1|张_3|文_3|远_3|镜_17",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "141": {
+    "id": 141,
+    "section": 1,
+    "level": 24,
+    "row_data": "公_10|陈_10|关_2|云_2|长_2|生_17|先_17",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "142": {
+    "id": 142,
+    "section": 1,
+    "level": 24,
+    "row_data": "台_10|策_11|孙_11|水_18|淹_18|七_18|军_18",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "143": {
+    "id": 143,
+    "section": 1,
+    "level": 25,
+    "row_data": "五_1|虎_1|间_3|反_3|杀_2|人_2|凤_6|雏_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "144": {
+    "id": 144,
+    "section": 1,
+    "level": 25,
+    "row_data": "过_4|上_1|计_3|借_2|刀_2|卧_6|龙_6|马_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "145": {
+    "id": 145,
+    "section": 1,
+    "level": 25,
+    "row_data": "五_4|将_1|火_14|烧_14|舌_7|坚_11|孙_11|超_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "146": {
+    "id": 146,
+    "section": 1,
+    "level": 25,
+    "row_data": "关_4|将_4|黄_9|赤_14|战_7|群_7|儒_7|官_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "147": {
+    "id": 147,
+    "section": 1,
+    "level": 25,
+    "row_data": "斩_4|六_4|忠_9|壁_14|佗_13|华_13|之_15|渡_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "148": {
+    "id": 148,
+    "section": 1,
+    "level": 25,
+    "row_data": "偃_19|月_19|枭_5|世_5|乱_5|绍_12|战_15|懿_17",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "149": {
+    "id": 149,
+    "section": 1,
+    "level": 25,
+    "row_data": "龙_19|刀_19|雄_5|晋_16|三_16|袁_12|阵_18|马_17",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "150": {
+    "id": 150,
+    "section": 1,
+    "level": 25,
+    "row_data": "青_19|维_10|姜_10|归_16|分_16|八_18|卦_18|司_17",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "151": {
+    "id": 151,
+    "section": 1,
+    "level": 26,
+    "row_data": "师_1|出_1|雄_4|英_4|论_4|酒_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "152": {
+    "id": 152,
+    "section": 1,
+    "level": 26,
+    "row_data": "表_1|牛_2|木_2|帝_3|白_3|煮_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "153": {
+    "id": 153,
+    "section": 1,
+    "level": 26,
+    "row_data": "马_2|流_2|托_3|城_3|铜_5|雀_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "154": {
+    "id": 154,
+    "section": 1,
+    "level": 26,
+    "row_data": "侯_6|夏_6|孤_3|权_9|青_7|台_5",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "155": {
+    "id": 155,
+    "section": 1,
+    "level": 26,
+    "row_data": "惇_6|令_8|以_8|孙_9|梅_7|煮_7",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "156": {
+    "id": 156,
+    "section": 1,
+    "level": 26,
+    "row_data": "侯_8|诸_8|子_8|天_8|挟_8|酒_7",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "157": {
+    "id": 157,
+    "section": 1,
+    "level": 27,
+    "row_data": "江_1|东_1|割_2|乌_3|巢_3|酒_3",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "158": {
+    "id": 158,
+    "section": 1,
+    "level": 27,
+    "row_data": "左_7|之_1|须_2|弃_2|袍_2|徒_3",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "159": {
+    "id": 159,
+    "section": 1,
+    "level": 27,
+    "row_data": "慈_7|虎_1|挥_6|儒_5|群_5|荀_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "160": {
+    "id": 160,
+    "section": 1,
+    "level": 27,
+    "row_data": "掷_7|杯_7|泪_6|斩_6|战_5|文_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "161": {
+    "id": 161,
+    "section": 1,
+    "level": 27,
+    "row_data": "曹_7|戏_7|谡_6|马_6|舌_5|若_4",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "162": {
+    "id": 162,
+    "section": 1,
+    "level": 27,
+    "row_data": "操_7|三_8|英_8|战_8|吕_8|布_8",
+    "row_count": 6,
+    "col_count": 6,
+    "time_second": null,
+    "reward_1": null
+  },
+  "163": {
+    "id": 163,
+    "section": 1,
+    "level": 28,
+    "row_data": "长_1|废_1|汉_2|诸_3|侯_3|讨_3|董_3",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "164": {
+    "id": 164,
+    "section": 1,
+    "level": 28,
+    "row_data": "立_1|幼_1|少_2|蝉_5|貂_5|计_4|害_4",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "165": {
+    "id": 165,
+    "section": 1,
+    "level": 28,
+    "row_data": "兔_11|赤_11|帝_2|关_6|戏_5|一_4|三_4",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "166": {
+    "id": 166,
+    "section": 1,
+    "level": 28,
+    "row_data": "马_11|辩_2|刘_2|牢_6|布_5|吕_5|贤_4",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "167": {
+    "id": 167,
+    "section": 1,
+    "level": 28,
+    "row_data": "当_7|如_7|谋_7|虎_6|东_10|汉_10|国_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "168": {
+    "id": 168,
+    "section": 1,
+    "level": 28,
+    "row_data": "子_7|孙_7|仲_7|八_9|卦_9|末_10|三_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "169": {
+    "id": 169,
+    "section": 1,
+    "level": 28,
+    "row_data": "生_7|骑_8|豹_8|虎_8|阵_9|年_10|分_10",
+    "row_count": 7,
+    "col_count": 7,
+    "time_second": null,
+    "reward_1": null
+  },
+  "170": {
+    "id": 170,
+    "section": 1,
+    "level": 29,
+    "row_data": "牢_1|虎_1|在_2|千_2|里_2|兮_3|飖_3|飘_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "171": {
+    "id": 171,
+    "section": 1,
+    "level": 29,
+    "row_data": "关_1|凌_5|志_2|龙_4|卧_4|若_3|流_3|风_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "172": {
+    "id": 172,
+    "section": 1,
+    "level": 29,
+    "row_data": "之_1|统_5|枥_2|先_4|生_4|何_7|回_3|之_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "173": {
+    "id": 173,
+    "section": 1,
+    "level": 29,
+    "row_data": "战_1|营_6|伏_2|骥_2|老_2|以_7|雪_3|夏_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "174": {
+    "id": 174,
+    "section": 1,
+    "level": 29,
+    "row_data": "八_12|连_6|烧_6|火_6|年_10|解_7|忧_7|侯_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "175": {
+    "id": 175,
+    "section": 1,
+    "level": 29,
+    "row_data": "阵_12|图_12|养_10|陈_11|永_10|康_7|唯_7|惇_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "176": {
+    "id": 176,
+    "section": 1,
+    "level": 29,
+    "row_data": "矛_13|蛇_13|怡_10|宫_11|得_10|杜_7|有_7|戟_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "177": {
+    "id": 177,
+    "section": 1,
+    "level": 29,
+    "row_data": "丈_13|八_13|之_10|福_10|可_10|方_9|天_9|画_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "178": {
+    "id": 178,
+    "section": 1,
+    "level": 30,
+    "row_data": "偷_1|渡_1|吕_2|糜_3|夫_3|人_3|枭_4|姬_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "179": {
+    "id": 179,
+    "section": 1,
+    "level": 30,
+    "row_data": "白_10|阴_1|玲_2|巾_6|黄_6|箭_5|万_5|孙_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "180": {
+    "id": 180,
+    "section": 1,
+    "level": 30,
+    "row_data": "帝_10|平_1|绮_2|之_6|乱_6|齐_5|香_4|尚_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "181": {
+    "id": 181,
+    "section": 1,
+    "level": 30,
+    "row_data": "城_10|之_10|茅_9|顾_9|三_9|发_5|周_7|公_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "182": {
+    "id": 182,
+    "section": 1,
+    "level": 30,
+    "row_data": "张_11|战_10|庐_9|刘_12|诛_8|良_8|颜_8|吐_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "183": {
+    "id": 183,
+    "section": 1,
+    "level": 30,
+    "row_data": "星_11|彩_11|摔_12|备_12|文_8|丑_8|斩_8|哺_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "184": {
+    "id": 184,
+    "section": 1,
+    "level": 30,
+    "row_data": "佗_13|华_13|阿_12|斗_12|天_14|分_14|心_15|天_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "185": {
+    "id": 185,
+    "section": 1,
+    "level": 30,
+    "row_data": "心_12|人_12|买_12|收_12|下_14|三_14|归_15|下_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "186": {
+    "id": 186,
+    "section": 1,
+    "level": 31,
+    "row_data": "刮_1|长_2|坂_2|坡_2|草_3|战_4|舌_4|望_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "187": {
+    "id": 187,
+    "section": 1,
+    "level": 31,
+    "row_data": "骨_1|疗_1|七_10|之_2|船_3|群_4|止_5|梅_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "188": {
+    "id": 188,
+    "section": 1,
+    "level": 31,
+    "row_data": "三_9|毒_1|进_10|战_2|借_3|儒_4|渴_5|祝_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "189": {
+    "id": 189,
+    "section": 1,
+    "level": 31,
+    "row_data": "英_9|出_10|七_10|汉_11|箭_3|酒_8|中_7|融_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "190": {
+    "id": 190,
+    "section": 1,
+    "level": 31,
+    "row_data": "战_9|吕_9|布_9|寿_11|亭_11|池_8|山_7|靖_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "191": {
+    "id": 191,
+    "section": 1,
+    "level": 31,
+    "row_data": "孙_12|公_12|温_13|酒_13|侯_11|肉_8|林_8|王_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "192": {
+    "id": 192,
+    "section": 1,
+    "level": 31,
+    "row_data": "瓒_12|骑_14|单_14|斩_13|华_13|雄_13|子_15|天_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "193": {
+    "id": 193,
+    "section": 1,
+    "level": 31,
+    "row_data": "千_14|里_14|走_14|侯_15|诸_15|令_15|以_15|挟_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "194": {
+    "id": 194,
+    "section": 1,
+    "level": 32,
+    "row_data": "白_1|空_2|城_2|道_3|容_3|仲_4|马_4|司_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "195": {
+    "id": 195,
+    "section": 1,
+    "level": 32,
+    "row_data": "衣_1|渡_1|计_2|颜_7|华_3|达_4|了_5|赔_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "196": {
+    "id": 196,
+    "section": 1,
+    "level": 32,
+    "row_data": "潼_9|江_1|大_8|红_7|兵_5|折_5|夫_5|挥_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "197": {
+    "id": 197,
+    "section": 1,
+    "level": 32,
+    "row_data": "关_9|之_9|意_8|东_7|江_7|又_5|人_5|泪_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "198": {
+    "id": 198,
+    "section": 1,
+    "level": 32,
+    "row_data": "百_10|战_9|失_8|街_8|亭_8|七_13|马_6|斩_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "199": {
+    "id": 199,
+    "section": 1,
+    "level": 32,
+    "row_data": "步_10|穿_10|杨_10|三_12|成_13|步_13|谡_6|煮_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "200": {
+    "id": 200,
+    "section": 1,
+    "level": 32,
+    "row_data": "戟_11|奴_12|家_12|姓_12|诗_13|西_14|论_15|酒_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "201": {
+    "id": 201,
+    "section": 1,
+    "level": 32,
+    "row_data": "射_11|门_11|辕_11|超_14|马_14|凉_14|英_15|雄_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "202": {
+    "id": 202,
+    "section": 1,
+    "level": 33,
+    "row_data": "赤_1|壁_1|落_2|凤_2|作_3|马_3|雀_4|铜_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "203": {
+    "id": 203,
+    "section": 1,
+    "level": 33,
+    "row_data": "铁_11|之_1|战_1|坡_2|的_3|卢_3|春_4|深_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "204": {
+    "id": 204,
+    "section": 1,
+    "level": 33,
+    "row_data": "索_11|连_11|东_10|风_10|赤_7|飞_3|快_3|锁_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "205": {
+    "id": 205,
+    "section": 1,
+    "level": 33,
+    "row_data": "袁_16|环_11|与_10|不_10|兔_7|战_7|乔_4|二_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "206": {
+    "id": 206,
+    "section": 1,
+    "level": 33,
+    "row_data": "术_16|孙_12|周_10|郎_10|诸_9|马_7|白_5|布_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "207": {
+    "id": 207,
+    "section": 1,
+    "level": 33,
+    "row_data": "德_15|伯_12|符_12|便_10|葛_9|刘_8|帝_5|吕_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "208": {
+    "id": 208,
+    "section": 1,
+    "level": 33,
+    "row_data": "玄_15|貂_13|蝉_13|明_9|孔_9|禅_8|城_5|鬼_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "209": {
+    "id": 209,
+    "section": 1,
+    "level": 33,
+    "row_data": "刘_15|雨_14|唤_14|风_14|呼_14|孤_5|托_5|战_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "210": {
+    "id": 210,
+    "section": 1,
+    "level": 34,
+    "row_data": "桃_1|草_3|船_3|认_5|贼_5|美_6|神_7|机_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "211": {
+    "id": 211,
+    "section": 1,
+    "level": 34,
+    "row_data": "园_1|结_1|借_3|煮_4|作_5|周_6|算_7|妙_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "212": {
+    "id": 212,
+    "section": 1,
+    "level": 34,
+    "row_data": "单_2|义_1|箭_3|酒_4|父_5|郎_6|夏_8|侯_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "213": {
+    "id": 213,
+    "section": 1,
+    "level": 34,
+    "row_data": "刀_2|赴_2|会_2|论_4|英_4|雄_4|枭_9|惇_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "214": {
+    "id": 214,
+    "section": 1,
+    "level": 34,
+    "row_data": "乐_10|不_10|诸_12|水_13|生_13|孙_14|雄_9|曹_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "215": {
+    "id": 215,
+    "section": 1,
+    "level": 34,
+    "row_data": "东_11|思_10|葛_12|镜_13|先_13|尚_14|太_16|操_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "216": {
+    "id": 216,
+    "section": 1,
+    "level": 34,
+    "row_data": "汉_11|蜀_10|亮_12|国_11|空_15|香_14|史_16|慈_16",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "217": {
+    "id": 217,
+    "section": 1,
+    "level": 34,
+    "row_data": "末_11|年_11|分_11|三_11|城_15|计_15|马_17|超_17",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "218": {
+    "id": 218,
+    "section": 1,
+    "level": 35,
+    "row_data": "赤_1|壁_1|折_2|沙_2|铁_2|东_4|蜀_7|寻_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "219": {
+    "id": 219,
+    "section": 1,
+    "level": 35,
+    "row_data": "自_3|将_3|戟_2|沉_2|未_2|风_4|相_7|处_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "220": {
+    "id": 220,
+    "section": 1,
+    "level": 35,
+    "row_data": "铜_5|磨_3|洗_3|认_3|销_2|不_4|堂_6|何_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "221": {
+    "id": 221,
+    "section": 1,
+    "level": 35,
+    "row_data": "雀_5|春_5|深_5|前_3|朝_3|与_4|祠_6|锦_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "222": {
+    "id": 222,
+    "section": 1,
+    "level": 35,
+    "row_data": "乔_5|二_5|锁_5|便_4|郎_4|周_4|相_6|官_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "223": {
+    "id": 223,
+    "section": 1,
+    "level": 35,
+    "row_data": "两_9|朝_9|开_9|济_9|老_9|臣_9|丞_6|城_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "224": {
+    "id": 224,
+    "section": 1,
+    "level": 35,
+    "row_data": "死_10|先_10|身_10|捷_10|未_10|心_9|森_8|外_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "225": {
+    "id": 225,
+    "section": 1,
+    "level": 35,
+    "row_data": "三_11|国_11|演_11|义_11|师_10|出_10|森_8|柏_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "226": {
+    "id": 226,
+    "section": 1,
+    "level": 36,
+    "row_data": "对_6|譬_7|多_7|曹_9|植_9|何_8|蜀_1|映_2",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "227": {
+    "id": 227,
+    "section": 1,
+    "level": 36,
+    "row_data": "酒_6|如_7|苦_7|曹_10|操_10|以_8|相_1|阶_2",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "228": {
+    "id": 228,
+    "section": 1,
+    "level": 36,
+    "row_data": "当_6|朝_7|日_7|曹_11|仁_11|解_8|草_2|碧_2",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "229": {
+    "id": 229,
+    "section": 1,
+    "level": 36,
+    "row_data": "歌_6|露_7|去_7|康_8|杜_8|忧_8|自_2|音_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "230": {
+    "id": 230,
+    "section": 1,
+    "level": 36,
+    "row_data": "人_6|生_6|几_6|何_6|有_8|唯_8|春_2|好_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "231": {
+    "id": 231,
+    "section": 1,
+    "level": 36,
+    "row_data": "三_5|顾_5|频_5|烦_5|天_5|下_5|色_2|空_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "232": {
+    "id": 232,
+    "section": 1,
+    "level": 36,
+    "row_data": "襟_4|满_4|泪_4|雄_4|英_4|计_5|隔_3|鹂_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "233": {
+    "id": 233,
+    "section": 1,
+    "level": 36,
+    "row_data": "东_12|汉_12|末_12|年_12|使_4|长_4|叶_3|黄_3",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "234": {
+    "id": 234,
+    "section": 1,
+    "level": 37,
+    "row_data": "青_1|但_2|为_2|周_9|公_9|苹_3|我_4|绝_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "235": {
+    "id": 235,
+    "section": 1,
+    "level": 37,
+    "row_data": "青_1|今_2|君_2|心_10|归_10|之_3|有_4|断_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "236": {
+    "id": 236,
+    "section": 1,
+    "level": 37,
+    "row_data": "子_1|至_2|故_2|天_10|下_10|野_3|嘉_4|可_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "237": {
+    "id": 237,
+    "section": 1,
+    "level": 37,
+    "row_data": "衿_1|吟_2|沉_2|呦_3|呦_3|食_3|宾_4|不_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "238": {
+    "id": 238,
+    "section": 1,
+    "level": 37,
+    "row_data": "悠_1|悠_1|我_1|心_1|鹿_3|鸣_3|鼓_4|来_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "239": {
+    "id": 239,
+    "section": 1,
+    "level": 37,
+    "row_data": "飞_6|南_6|鹊_6|乌_6|稀_6|星_6|瑟_4|中_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "240": {
+    "id": 240,
+    "section": 1,
+    "level": 37,
+    "row_data": "曹_8|操_8|绕_7|树_7|三_7|明_6|吹_4|从_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "241": {
+    "id": 241,
+    "section": 1,
+    "level": 37,
+    "row_data": "依_7|可_7|枝_7|何_7|匝_7|月_6|笙_4|忧_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "242": {
+    "id": 242,
+    "section": 1,
+    "level": 38,
+    "row_data": "煮_1|草_2|船_2|姜_3|收_3|布_4|吕_4|战_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "243": {
+    "id": 243,
+    "section": 1,
+    "level": 38,
+    "row_data": "酒_1|论_1|借_2|维_3|智_3|山_11|三_4|英_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "244": {
+    "id": 244,
+    "section": 1,
+    "level": 38,
+    "row_data": "跃_5|英_1|箭_2|烧_10|博_10|祁_11|出_11|乐_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "245": {
+    "id": 245,
+    "section": 1,
+    "level": 38,
+    "row_data": "马_5|雄_1|汉_6|火_10|望_10|坡_10|六_11|不_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "246": {
+    "id": 246,
+    "section": 1,
+    "level": 38,
+    "row_data": "过_5|檀_5|在_6|心_6|怒_9|打_9|蜀_12|思_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "247": {
+    "id": 247,
+    "section": 1,
+    "level": 38,
+    "row_data": "刀_7|溪_5|曹_6|营_6|兵_8|督_9|邮_9|割_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "248": {
+    "id": 248,
+    "section": 1,
+    "level": 38,
+    "row_data": "献_7|身_6|在_6|藤_8|甲_8|刀_14|单_14|发_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "249": {
+    "id": 249,
+    "section": 1,
+    "level": 38,
+    "row_data": "德_7|孟_7|火_8|烧_8|会_14|赴_14|首_13|代_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "250": {
+    "id": 250,
+    "section": 1,
+    "level": 39,
+    "row_data": "子_1|当_1|如_1|卧_5|龙_5|古_16|来_16|单_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "251": {
+    "id": 251,
+    "section": 1,
+    "level": 39,
+    "row_data": "生_1|辕_2|孙_1|雏_5|凤_5|之_16|恶_16|骑_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "252": {
+    "id": 252,
+    "section": 1,
+    "level": 39,
+    "row_data": "射_2|门_2|仲_1|谋_1|探_4|囊_4|主_6|救_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "253": {
+    "id": 253,
+    "section": 1,
+    "level": 39,
+    "row_data": "戟_2|冢_3|虎_3|挥_9|神_8|取_4|物_4|瘁_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "254": {
+    "id": 254,
+    "section": 1,
+    "level": 39,
+    "row_data": "公_10|马_9|斩_9|泪_9|威_8|鞠_7|躬_7|尽_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "255": {
+    "id": 255,
+    "section": 1,
+    "level": 39,
+    "row_data": "髯_10|谡_9|流_11|马_11|将_8|军_8|大_14|意_14",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "256": {
+    "id": 256,
+    "section": 1,
+    "level": 39,
+    "row_data": "美_10|木_11|牛_11|将_12|计_12|虎_13|痴_13|失_14",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "257": {
+    "id": 257,
+    "section": 1,
+    "level": 39,
+    "row_data": "千_15|古_15|一_15|相_15|就_12|计_12|州_14|荆_14",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "258": {
+    "id": 258,
+    "section": 1,
+    "level": 40,
+    "row_data": "黄_1|盖_1|纶_2|巾_2|对_3|白_4|帝_4|孤_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "259": {
+    "id": 259,
+    "section": 1,
+    "level": 40,
+    "row_data": "打_1|羽_2|扇_2|隆_3|中_3|雄_6|城_4|托_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "260": {
+    "id": 260,
+    "section": 1,
+    "level": 40,
+    "row_data": "瑜_1|七_5|温_6|酒_6|斩_6|华_6|五_7|虎_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "261": {
+    "id": 261,
+    "section": 1,
+    "level": 40,
+    "row_data": "周_1|擒_5|曹_8|魏_8|双_8|璧_8|将_7|上_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "262": {
+    "id": 262,
+    "section": 1,
+    "level": 40,
+    "row_data": "获_5|孟_5|水_9|淹_9|七_10|进_10|七_10|出_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "263": {
+    "id": 263,
+    "section": 1,
+    "level": 40,
+    "row_data": "首_11|匹_11|夫_11|七_9|晋_12|归_12|国_12|三_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "264": {
+    "id": 264,
+    "section": 1,
+    "level": 40,
+    "row_data": "皓_11|结_13|义_13|军_9|营_14|吴_15|下_15|阿_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "265": {
+    "id": 265,
+    "section": 1,
+    "level": 40,
+    "row_data": "桃_13|园_13|火_14|烧_14|连_14|孟_16|德_16|蒙_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "266": {
+    "id": 266,
+    "section": 1,
+    "level": 41,
+    "row_data": "顾_1|茅_1|庐_1|舌_2|心_3|刮_4|骨_4|疗_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "267": {
+    "id": 267,
+    "section": 1,
+    "level": 41,
+    "row_data": "三_1|儒_2|群_2|战_2|之_3|暗_5|渡_5|毒_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "268": {
+    "id": 268,
+    "section": 1,
+    "level": 41,
+    "row_data": "连_8|环_8|司_3|马_3|昭_3|有_6|陈_5|仓_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "269": {
+    "id": 269,
+    "section": 1,
+    "level": 41,
+    "row_data": "锁_8|三_9|驱_7|虎_7|吞_7|生_6|中_6|无_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "270": {
+    "id": 270,
+    "section": 1,
+    "level": 41,
+    "row_data": "铁_8|姓_9|战_10|之_10|狼_7|上_12|将_12|军_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "271": {
+    "id": 271,
+    "section": 1,
+    "level": 41,
+    "row_data": "奴_9|家_9|赔_13|渡_10|袍_11|空_14|五_15|潘_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "272": {
+    "id": 272,
+    "section": 1,
+    "level": 41,
+    "row_data": "人_13|夫_13|了_13|官_10|弃_11|城_14|子_15|凤_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "273": {
+    "id": 273,
+    "section": 1,
+    "level": 41,
+    "row_data": "又_13|折_13|兵_13|割_11|须_11|计_14|良_15|将_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "274": {
+    "id": 274,
+    "section": 1,
+    "level": 42,
+    "row_data": "步_1|步_1|半_2|筹_2|莫_2|宝_7|刀_7|不_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "275": {
+    "id": 275,
+    "section": 1,
+    "level": 42,
+    "row_data": "不_3|为_1|营_1|败_4|展_2|粮_8|足_8|老_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "276": {
+    "id": 276,
+    "section": 1,
+    "level": 42,
+    "row_data": "测_3|风_3|折_4|兵_4|兵_8|精_8|士_6|草_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "277": {
+    "id": 277,
+    "section": 1,
+    "level": 42,
+    "row_data": "羽_15|云_3|将_4|青_14|饱_6|学_6|之_6|船_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "278": {
+    "id": 278,
+    "section": 1,
+    "level": 42,
+    "row_data": "扇_15|酒_14|煮_14|梅_14|大_13|才_11|箭_9|借_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "279": {
+    "id": 279,
+    "section": 1,
+    "level": 42,
+    "row_data": "纶_15|巾_15|欲_16|全_13|获_13|薄_11|乘_10|其_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "280": {
+    "id": 280,
+    "section": 1,
+    "level": 42,
+    "row_data": "儒_5|舌_5|擒_16|胜_13|定_12|智_11|浅_11|不_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "281": {
+    "id": 281,
+    "section": 1,
+    "level": 42,
+    "row_data": "群_5|战_5|故_16|纵_16|不_12|躇_12|踌_12|备_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "282": {
+    "id": 282,
+    "section": 1,
+    "level": 43,
+    "row_data": "温_1|酒_1|三_2|英_2|战_2|战_6|舌_6|煮_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "283": {
+    "id": 283,
+    "section": 1,
+    "level": 43,
+    "row_data": "千_3|斩_1|华_1|雄_1|吕_2|群_6|论_7|酒_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "284": {
+    "id": 284,
+    "section": 1,
+    "level": 43,
+    "row_data": "里_3|走_3|过_4|五_4|布_2|儒_6|英_7|白_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "285": {
+    "id": 285,
+    "section": 1,
+    "level": 43,
+    "row_data": "骑_3|单_3|三_5|关_4|将_4|刮_9|雄_7|帝_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "286": {
+    "id": 286,
+    "section": 1,
+    "level": 43,
+    "row_data": "庐_5|茅_5|顾_5|斩_4|六_4|骨_9|托_8|城_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "287": {
+    "id": 287,
+    "section": 1,
+    "level": 43,
+    "row_data": "泪_14|挥_14|箭_12|借_12|伤_9|疗_9|孤_8|营_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "288": {
+    "id": 288,
+    "section": 1,
+    "level": 43,
+    "row_data": "斩_14|望_13|梅_13|船_12|草_12|望_11|蜀_11|连_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "289": {
+    "id": 289,
+    "section": 1,
+    "level": 43,
+    "row_data": "马_14|谡_14|止_13|渴_13|得_11|陇_11|火_10|烧_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "290": {
+    "id": 290,
+    "section": 1,
+    "level": 44,
+    "row_data": "七_1|步_1|成_1|吕_2|高_3|八_3|无_4|懈_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "291": {
+    "id": 291,
+    "section": 1,
+    "level": 44,
+    "row_data": "擒_14|七_14|诗_1|奉_2|才_3|斗_3|扣_7|可_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "292": {
+    "id": 292,
+    "section": 1,
+    "level": 44,
+    "row_data": "七_14|纵_14|三_10|先_2|初_13|环_7|相_7|击_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "293": {
+    "id": 293,
+    "section": 1,
+    "level": 44,
+    "row_data": "纵_15|茅_10|顾_10|庐_13|出_13|环_7|环_5|连_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "294": {
+    "id": 294,
+    "section": 1,
+    "level": 44,
+    "row_data": "故_15|庐_10|草_9|茅_13|昭_12|之_12|心_12|锁_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "295": {
+    "id": 295,
+    "section": 1,
+    "level": 44,
+    "row_data": "擒_15|借_9|船_9|司_12|马_12|渴_6|止_6|铁_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "296": {
+    "id": 296,
+    "section": 1,
+    "level": 44,
+    "row_data": "欲_15|箭_9|荆_11|州_11|龙_8|单_8|梅_6|望_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "297": {
+    "id": 297,
+    "section": 1,
+    "level": 44,
+    "row_data": "刘_11|备_11|借_11|赵_8|子_8|骑_8|救_8|主_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "298": {
+    "id": 298,
+    "section": 1,
+    "level": 45,
+    "row_data": "曲_1|有_1|治_3|世_3|之_3|能_3|臣_3|煮_4|酒_4",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "299": {
+    "id": 299,
+    "section": 1,
+    "level": 45,
+    "row_data": "青_2|误_1|周_1|门_10|辕_10|世_3|乱_3|梅_4|青_4",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "300": {
+    "id": 300,
+    "section": 1,
+    "level": 45,
+    "row_data": "龙_2|顾_1|郎_1|射_10|阿_9|之_3|奸_3|雄_3|刘_5",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "301": {
+    "id": 301,
+    "section": 1,
+    "level": 45,
+    "row_data": "偃_2|月_2|刀_2|戟_10|瞒_9|吾_8|痴_7|王_6|备_5",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "302": {
+    "id": 302,
+    "section": 1,
+    "level": 45,
+    "row_data": "亮_13|让_12|庐_11|茅_11|顾_11|乃_8|虎_7|佐_6|之_6",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "303": {
+    "id": 303,
+    "section": 1,
+    "level": 45,
+    "row_data": "生_13|元_12|侯_12|夏_12|三_11|常_8|昭_15|汉_15|才_6",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "304": {
+    "id": 304,
+    "section": 1,
+    "level": 45,
+    "row_data": "何_13|既_13|夫_14|了_14|赔_14|山_8|烈_15|帝_15|军_16",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "305": {
+    "id": 305,
+    "section": 1,
+    "level": 45,
+    "row_data": "瑜_13|生_13|人_14|龙_8|子_8|赵_8|八_18|斗_18|七_16",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "306": {
+    "id": 306,
+    "section": 1,
+    "level": 45,
+    "row_data": "小_17|乔_17|又_14|折_14|兵_14|才_18|高_18|水_16|淹_16",
+    "row_count": 9,
+    "col_count": 9,
+    "time_second": null,
+    "reward_1": null
+  },
+  "307": {
+    "id": 307,
+    "section": 1,
+    "level": 46,
+    "row_data": "桃_1|草_3|船_3|认_5|贼_5|美_6|神_7|机_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "308": {
+    "id": 308,
+    "section": 1,
+    "level": 46,
+    "row_data": "园_1|结_1|借_3|煮_4|作_5|周_6|算_7|妙_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "309": {
+    "id": 309,
+    "section": 1,
+    "level": 46,
+    "row_data": "单_2|义_1|箭_3|酒_4|父_5|郎_6|夏_8|侯_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "310": {
+    "id": 310,
+    "section": 1,
+    "level": 46,
+    "row_data": "刀_2|赴_2|会_2|论_4|英_4|雄_4|枭_9|惇_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "311": {
+    "id": 311,
+    "section": 1,
+    "level": 46,
+    "row_data": "乐_10|不_10|诸_12|水_13|生_13|孙_14|雄_9|曹_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "312": {
+    "id": 312,
+    "section": 1,
+    "level": 46,
+    "row_data": "东_11|思_10|葛_12|镜_13|先_13|尚_14|太_16|操_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "313": {
+    "id": 313,
+    "section": 1,
+    "level": 46,
+    "row_data": "汉_11|蜀_10|亮_12|国_11|空_15|香_14|史_16|慈_16",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "314": {
+    "id": 314,
+    "section": 1,
+    "level": 46,
+    "row_data": "末_11|年_11|分_11|三_11|城_15|计_15|马_17|超_17",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "315": {
+    "id": 315,
+    "section": 1,
+    "level": 47,
+    "row_data": "子_1|当_1|如_1|卧_5|龙_5|古_16|来_16|单_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "316": {
+    "id": 316,
+    "section": 1,
+    "level": 47,
+    "row_data": "生_1|辕_2|孙_1|雏_5|凤_5|之_16|恶_16|骑_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "317": {
+    "id": 317,
+    "section": 1,
+    "level": 47,
+    "row_data": "射_2|门_2|仲_1|谋_1|探_4|囊_4|主_6|救_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "318": {
+    "id": 318,
+    "section": 1,
+    "level": 47,
+    "row_data": "戟_2|冢_3|虎_3|挥_9|神_8|取_4|物_4|瘁_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "319": {
+    "id": 319,
+    "section": 1,
+    "level": 47,
+    "row_data": "公_10|马_9|斩_9|泪_9|威_8|鞠_7|躬_7|尽_7",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "320": {
+    "id": 320,
+    "section": 1,
+    "level": 47,
+    "row_data": "髯_10|谡_9|流_11|马_11|将_8|军_8|大_14|意_14",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "321": {
+    "id": 321,
+    "section": 1,
+    "level": 47,
+    "row_data": "美_10|木_11|牛_11|将_12|计_12|虎_13|痴_13|失_14",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "322": {
+    "id": 322,
+    "section": 1,
+    "level": 47,
+    "row_data": "千_15|古_15|一_15|相_15|就_12|计_12|州_14|荆_14",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "323": {
+    "id": 323,
+    "section": 1,
+    "level": 48,
+    "row_data": "白_1|空_2|城_2|道_3|容_3|仲_4|马_4|司_4",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "324": {
+    "id": 324,
+    "section": 1,
+    "level": 48,
+    "row_data": "衣_1|渡_1|计_2|颜_7|华_3|达_4|了_5|赔_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "325": {
+    "id": 325,
+    "section": 1,
+    "level": 48,
+    "row_data": "潼_9|江_1|大_8|红_7|兵_5|折_5|夫_5|挥_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "326": {
+    "id": 326,
+    "section": 1,
+    "level": 48,
+    "row_data": "关_9|之_9|意_8|东_7|江_7|又_5|人_5|泪_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "327": {
+    "id": 327,
+    "section": 1,
+    "level": 48,
+    "row_data": "百_10|战_9|失_8|街_8|亭_8|七_13|马_6|斩_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "328": {
+    "id": 328,
+    "section": 1,
+    "level": 48,
+    "row_data": "步_10|穿_10|杨_10|三_12|成_13|步_13|谡_6|煮_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "329": {
+    "id": 329,
+    "section": 1,
+    "level": 48,
+    "row_data": "戟_11|奴_12|家_12|姓_12|诗_13|西_14|论_15|酒_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "330": {
+    "id": 330,
+    "section": 1,
+    "level": 48,
+    "row_data": "射_11|门_11|辕_11|超_14|马_14|凉_14|英_15|雄_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "331": {
+    "id": 331,
+    "section": 1,
+    "level": 49,
+    "row_data": "毒_1|士_1|荀_3|彧_3|生_10|仲_10|谋_10|庞_11",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "332": {
+    "id": 332,
+    "section": 1,
+    "level": 49,
+    "row_data": "祝_2|贾_1|借_4|东_5|子_10|孙_10|公_11|德_11",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "333": {
+    "id": 333,
+    "section": 1,
+    "level": 49,
+    "row_data": "融_2|诩_1|荆_4|风_5|当_10|如_10|周_12|公_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "334": {
+    "id": 334,
+    "section": 1,
+    "level": 49,
+    "row_data": "夫_2|人_2|州_4|不_5|与_5|周_5|郎_5|瑾_12",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "335": {
+    "id": 335,
+    "section": 1,
+    "level": 49,
+    "row_data": "名_14|成_14|夏_9|诗_7|七_7|苦_6|便_5|甘_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "336": {
+    "id": 336,
+    "section": 1,
+    "level": 49,
+    "row_data": "诸_16|八_14|侯_9|成_7|步_7|肉_6|关_8|宁_13",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "337": {
+    "id": 337,
+    "section": 1,
+    "level": 49,
+    "row_data": "葛_16|阵_14|妙_9|才_9|司_15|计_6|云_8|长_8",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "338": {
+    "id": 338,
+    "section": 1,
+    "level": 49,
+    "row_data": "瑾_16|图_14|文_17|聘_17|马_15|昭_15|之_15|心_15",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "339": {
+    "id": 339,
+    "section": 1,
+    "level": 50,
+    "row_data": "铜_2|桃_3|园_3|三_3|结_3|义_3|烦_5|频_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": 9999,
+    "reward_1": "1002|100"
+  },
+  "340": {
+    "id": 340,
+    "section": 1,
+    "level": 50,
+    "row_data": "雀_2|桃_1|二_1|三_4|顾_4|下_5|天_5|顾_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "341": {
+    "id": 341,
+    "section": 1,
+    "level": 50,
+    "row_data": "春_2|杀_1|三_1|曹_7|茅_4|计_5|城_6|三_5",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "342": {
+    "id": 342,
+    "section": 1,
+    "level": 50,
+    "row_data": "深_2|锁_2|士_1|丕_7|庐_4|相_8|麦_6|走_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "343": {
+    "id": 343,
+    "section": 1,
+    "level": 50,
+    "row_data": "乔_2|二_2|急_8|太_8|何_8|煎_8|凌_9|败_6",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "344": {
+    "id": 344,
+    "section": 1,
+    "level": 50,
+    "row_data": "荆_11|失_11|意_11|大_11|天_10|安_10|波_9|微_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "345": {
+    "id": 345,
+    "section": 1,
+    "level": 50,
+    "row_data": "州_11|煮_12|酒_12|横_13|下_10|计_10|妙_10|步_9",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  },
+  "346": {
+    "id": 346,
+    "section": 1,
+    "level": 50,
+    "row_data": "雄_12|英_12|论_12|槊_13|赋_13|诗_13|郎_10|周_10",
+    "row_count": 8,
+    "col_count": 8,
+    "time_second": null,
+    "reward_1": null
+  }
+}

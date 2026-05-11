@@ -1,0 +1,20 @@
+
+gou.png
+size: 974, 497
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body_7
+  rotate: true
+  xy: 2, 2
+  size: 493, 883
+  orig: 493, 883
+  offset: 0, 0
+  index: -1
+eyes_1
+  rotate: true
+  xy: 887, 382
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1

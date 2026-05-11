@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "name": "报上名来",
+    "type": 1,
+    "event": "OPEN_CHECK_CONNECT_DIALOG"
+  },
+  "2": {
+    "id": 2,
+    "name": "连连看",
+    "type": 1,
+    "event": "OPEN_LINK_UP_DIALOG"
+  },
+  "3": {
+    "id": 3,
+    "name": "连关系网",
+    "type": 1,
+    "event": "OPEN_RELATION_DIALOG"
+  },
+  "4": {
+    "id": 4,
+    "name": "倒水",
+    "type": 1,
+    "event": "OPEN_WATER_SORT_DIALOG"
+  }
+}

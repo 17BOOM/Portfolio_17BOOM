@@ -1,0 +1,1 @@
+{"type":"Label","props":{"x":0,"y":0,"width":50,"height":50,"bgColor":"#ff01b8","var":"Arrows","presetID":1,"isPresetRoot":true},"compId":773,"child":[{"type":"Sprite","props":{"texture":"Sprite/icon_arrow 1.png","x":0,"y":0,"width":50,"height":50,"renderType":"mask","presetID":2},"compId":774}],"loadList":["Sprite/icon_arrow 1.png"],"loadList3D":[]}
