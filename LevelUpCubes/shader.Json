@@ -1,0 +1,170 @@
+{
+    "BLINNPHONG": [
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "GI_AMBIENT_SH"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "BONE",
+                "GI_AMBIENT_SH"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "RECEIVESHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "GI_AMBIENT_SH"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "RECEIVESHADOW",
+                "DIFFUSEMAP",
+                "DIRECTIONLIGHT",
+                "UV",
+                "UV1",
+                "GI_AMBIENT_SH"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "DIFFUSEMAP",
+                "DIRECTIONLIGHT",
+                "UV",
+                "UV1",
+                "GI_AMBIENT_SH"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "PBR": [
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "RECEIVESHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "GI_AMBIENT_SH",
+                "EMISSION"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "RECEIVESHADOW",
+                "DIRECTIONLIGHT",
+                "UV",
+                "GI_AMBIENT_SH",
+                "EMISSION"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "Unlit": [
+        {
+            "defineNames": [
+                "ENABLEVERTEXCOLOR",
+                "ALBEDOTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "ALBEDOTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "GPU_INSTANCE",
+                "ALBEDOTEXTURE"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "PARTICLESHURIKEN": [
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "COLORKEYCOUNT_8",
+                "COLOROVERLIFETIME",
+                "SIZEOVERLIFETIMECURVE",
+                "TEXTURESHEETANIMATIONCURVE",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "SPHERHBILLBOARD",
+                "SIZEOVERLIFETIMECURVE",
+                "ROTATIONOVERLIFETIME",
+                "ROTATIONOVERLIFETIMECONSTANT",
+                "SHAPE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "RENDERMODE_MESH",
+                "SIZEOVERLIFETIMECURVE",
+                "ROTATIONOVERLIFETIME",
+                "ROTATIONOVERLIFETIMECONSTANT",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        },
+        {
+            "defineNames": [
+                "DIFFUSEMAP",
+                "HORIZONTALBILLBOARD",
+                "SIZEOVERLIFETIMECURVE",
+                "TEXTURESHEETANIMATIONCURVE",
+                "TINTCOLOR"
+            ],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ],
+    "BlitScreen": [
+        {
+            "defineNames": [],
+            "passIndex": 0,
+            "subShaderIndex": 0
+        }
+    ]
+}

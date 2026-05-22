@@ -1,0 +1,59 @@
+<html>
+
+<head>
+    <title>www.layabox.com</title>
+    <meta charset='utf-8' />
+    <meta name='renderer' content='webkit' />
+    <meta name='viewport'
+        content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no' />
+    <meta name='apple-mobile-web-app-capable' content='yes' />
+    <meta name='full-screen' content='true' />
+    <meta name='x5-fullscreen' content='true' />
+    <meta name='360-fullscreen' content='true' />
+    <meta name='laya' screenorientation='landscape' />
+    <meta http-equiv='expires' content='0' />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' />
+    <meta http-equiv='expires' content='0' />
+    <meta http-equiv='Cache-Control' content='no-siteapp' />
+</head>
+
+<body>
+    <script type="text/javascript">
+        function loadLib(url) {
+            var script = document.createElement("script");
+            script.async = false;
+            script.src = url;
+            document.body.appendChild(script);
+        }
+    </script>
+
+    <script type="text/javascript" src="libs/min/laya.core.min.js"></script>
+    <script type="text/javascript" src="libs/min/laya.ani.min.js"></script>
+    <script type="text/javascript" src="libs/min/laya.ui.min.js"></script>
+
+    <script type="text/javascript">
+
+        Laya.init(640, 1136, Laya["WebGL"]);
+        Laya.stage.scaleMode = "fixedwidth"
+        Laya.stage.screenMode = "none";
+        Laya.stage.alignV = "top";
+        Laya.stage.alignH = "left";
+        Laya.URL.exportSceneToJson = true;
+        window.screenOrientation = "sensor_landscape";
+
+        var script = document.createElement("script");
+        script.src = "js/bundle.js"
+        script.type = "text/javascript";
+        script.crossOrigin = "anonymous";
+        document.body.appendChild(script);
+
+        script.onload = script.onreadystatechange = function () {
+            window['EmbedGame'].OpenGame(); //打开前置小游戏
+        }
+
+    </script>
+
+
+</body>
+
+</html>

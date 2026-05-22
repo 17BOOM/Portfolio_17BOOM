@@ -1,0 +1,1 @@
+{"type":"Dialog","props":{"zOrder":10000,"width":750,"isModal":true,"autoDestroyAtClosed":true},"compId":2,"child":[{"type":"Image","props":{"var":"closeButton","top":180,"skin":"宝箱/closeButton.png","name":"closeButton","left":25,"anchorY":0.5,"anchorX":0.5},"compId":3}],"loadList":["宝箱/closeButton.png"],"loadList3D":[]}
